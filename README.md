@@ -42,10 +42,20 @@ The dashboard consolidates key business metrics from multiple operational areas 
 
 ## Dashboard Preview
 
-*Screenshots will be added soon.*
+### Overall Performance Dashboard
 
----
+![Overall Performance](screenshots/Overall%20Performance.PNG)
 
-## Note
+### Digital Advertising Dashboard
 
-This portfolio version uses anonymized information for demonstration purposes.
+![Ads Performance](screenshots/Ads%20Performance.PNG)
+
+### Mobile Application Dashboard
+
+![Apps Performance](screenshots/Apps%20Performance.PNG)
+
+### Social Media Dashboard
+
+![Social Media Performance](screenshots/Social%20Media%20Performance.PNG)
+
+ version uses anonymized information for demonstration purposes.
